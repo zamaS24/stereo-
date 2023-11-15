@@ -26,4 +26,4 @@ Ce projet à été réalisé durant mon deuxième semestre à l'université en t
 
 
 ## Licence
-Ce projet ne contient pas de licence, vous pouvez à n'importe quelle fin. 
+Ce projet ne contient pas de licence, vous pouvez l'utiliser à n'importe quelle fin. 
